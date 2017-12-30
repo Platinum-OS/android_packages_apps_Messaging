@@ -20,7 +20,7 @@
 
     <item android:id="@+id/action_start_new_conversation"
         android:title="@string/start_new_conversation"
-        android:icon="@drawable/ic_add_white"
+        android:icon="@drawable/ic_quill"
         android:visible="false"
         appcompat:showAsAction="ifRoom" />
 
